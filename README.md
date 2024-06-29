@@ -1,6 +1,3 @@
-
-Sure, here's a more sophisticated version of the "Ask me about" line:
-
 Hi there, I'm Coral Bareket 👋
 
 👨‍💻 About Me
